@@ -30,4 +30,4 @@
 
 ## Images
 
-![This is an alt text.]( "This is a sample image.")
+![This is an alt text.]( https://github.com/LypsorTek/MiniShell/blob/main/imgMarkdown/Capture%20d%E2%80%99%C3%A9cran%20du%202024-08-01%2008-42-32.png "This is a sample image.")
